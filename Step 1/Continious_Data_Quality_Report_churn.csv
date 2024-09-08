@@ -1,0 +1,13 @@
+Features,Count,Missing%,Cardinality,Min,1st Qrt,Mean,Median,3rd Qrt,Max,Std Dev.,Data Source,TotalRows
+CustomerId,6499.0,0.0,6499.0,15565701.0,15629493.0,15691573.62,15691808.0,15753578.5,15815660.0,71875.84,Default Data Source,6499
+CreditScore,6499.0,0.0,459.0,350.0,584.0,650.4,651.0,718.0,850.0,96.62,Default Data Source,6499
+Geography,6499.0,0.0,3.0,0.0,0.0,0.75,1.0,1.0,2.0,0.83,Default Data Source,6499
+Gender,6499.0,0.0,2.0,0.0,0.0,0.54,1.0,1.0,1.0,0.5,Default Data Source,6499
+Age,6499.0,0.0,69.0,18.0,32.0,38.96,37.0,44.0,92.0,10.5,Default Data Source,6499
+Tenure,6499.0,0.0,11.0,0.0,3.0,5.04,5.0,8.0,10.0,2.89,Default Data Source,6499
+Balance,6499.0,0.0,4162.0,0.0,0.0,76836.58,97560.16,127844.69,238387.56,62407.57,Default Data Source,6499
+NumOfProducts,6499.0,0.0,4.0,1.0,1.0,1.52,1.0,2.0,4.0,0.58,Default Data Source,6499
+HasCrCard,6499.0,0.0,2.0,0.0,0.0,0.71,1.0,1.0,1.0,0.45,Default Data Source,6499
+IsActiveMember,6499.0,0.0,2.0,0.0,0.0,0.51,1.0,1.0,1.0,0.5,Default Data Source,6499
+EstimatedSalary,6499.0,0.0,6499.0,11.58,50907.57,100346.56,100496.84,150480.15,199970.74,57944.66,Default Data Source,6499
+Exited,6499.0,0.0,2.0,0.0,0.0,0.2,0.0,0.0,1.0,0.4,Default Data Source,6499

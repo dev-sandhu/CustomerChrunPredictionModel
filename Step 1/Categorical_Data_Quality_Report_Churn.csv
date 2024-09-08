@@ -1,0 +1,2 @@
+Features,Distinct Count,Missing%,Cardinality,Mode,Mode Freq.,Mode%,Mode Dist%,2nd Mode,2nd Mode Freq.,2nd Mode%,2nd Mode Dist%,DataType,DataSource,TotalRows
+Surname,6499.0,0.0,2289.0,Brown,21,0.32,0.32,Scott,20,0.31,0.31,Categorical,Default Data Source,6499
